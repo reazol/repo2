@@ -1,5 +1,3 @@
-this is the updated file
-
 blah blah blah blah 
 blah blah 
 blah blah blah blah 
@@ -7,3 +5,5 @@ blah blah
 blah blah blah blah 
 blah blah blah 
 blah blah 
+
+updated secondFile.txt
